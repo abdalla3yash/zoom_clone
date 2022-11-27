@@ -28,7 +28,7 @@ class _LoginScreenState extends State<LoginScreen> {
           ),
           child: Image.asset("assets/images/onboarding.jpg"),
         ),
-        CustomButton(text: 'Login', onPressed: () {}),
+        CustomButton(text: 'Google Sign In', onPressed: () {}),
       ],
     ));
   }
